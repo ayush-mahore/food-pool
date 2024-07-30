@@ -75,3 +75,13 @@
 .filter{
     display: flex;
 }
+
+.header-links{
+    color: burlywood;
+    text-decoration: none;
+}
+
+.restaurant-card-link{
+    color: peru;
+    text-decoration: none;
+}
